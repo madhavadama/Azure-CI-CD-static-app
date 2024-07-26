@@ -2,7 +2,7 @@
   <div id="app">
 
     <h1>Gen Ai for Every Business Custom</h1>
-	<h2>Upload your data to get Gen Ai predictions</h2>
+	<h2>Upload your data to get predictions from </h2>
     <img
       alt="Vue logo"
       style="width: 100px; height: 100px"
