@@ -1,8 +1,8 @@
 <template>
   <div id="app">
 
-    <h1>Gen Ai for Every Business Custom</h1>
-	<h2>Upload your data to get predictions from </h2>
+    <h1>Gen Ai for Every Business </h1>
+	<h2>Upload your data to get predictions from GenAI </h2>
     <img
       alt="Vue logo"
       style="width: 100px; height: 100px"
